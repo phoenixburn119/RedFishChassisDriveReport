@@ -1,0 +1,3 @@
+#TYPE System.Management.Automation.PSCustomObject,,,,
+Hostname,Make,IP,Username,Password
+TESTHOST,Dell,10.1.0.2,RedFishSVC,YOUR SERVICE ACCOUNT PASSWORD GOES HERE

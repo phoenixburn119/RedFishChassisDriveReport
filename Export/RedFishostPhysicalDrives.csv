@@ -1,0 +1,3 @@
+#TYPE System.Management.Automation.PSCustomObject,,,,,,
+Hostname,Serial,Controller,HealthStatus,FailurePredicted,MediaType,PartNumber
+TESTHOST,3242323,/redfish/v1/Systems/System.Embedded.1/Storage/AHCI.Slot.1-1/Drives/Disk.Direct.0-0:AHCI.Slot.1-1,@{Health=OK; HealthRollup=OK; State=Enabled},FALSE,SSD,SG-0T2GFX-MCS00-14E-1QB5-A00

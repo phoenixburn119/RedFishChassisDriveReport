@@ -1,0 +1,19 @@
+Dell Toolkit - https://github.com/dell/iDRAC-Redfish-Scripting/tree/master
+	This toolkit is via github but it can be installed through powershell at https://www.powershellgallery.com/packages/IdracRedfishSupport/22.6.0.0
+
+
+HPE Branded - https://www.hpe.com/psnow/doc/a00129680en_us
+	This is through the  HPEiLOCmdlets module located at https://www.powershellgallery.com/packages/HPEiLOCmdlets/4.2.0.0/
+https://www.hpe.com/psnow/doc/a00129680en_us
+https://h50146.www5.hpe.com/products/software/oe/linux/mainstream/support/whitepaper/pdfs/4AA6-1727ENW.pdf
+https://developer.hpe.com/platform/ilo-restful-api/home/
+https://www.hpe.com/h22228/video-gallery/us/en/f5e0a42c-9c46-4f8a-91c1-a3b7ffd18814/hpe-server-automation-using-redfish-swordfish-restapi-and-powershell/video/
+
+
+Swordfish-Powershell-Toolkit - https://github.com/SNIA/Swordfish-Powershell-Toolkit/tree/master
+	This is through the Swordfish toolkit and it offers tools for each vendor so you only need one set of tools installed. Video by main author https://www.hpe.com/h22228/video-gallery/us/en/f5e0a42c-9c46-4f8a-91c1-a3b7ffd18814/hpe-server-automation-using-redfish-swordfish-restapi-and-powershell/video/
+
+
+Dell Branded - 
+https://dl.dell.com/manuals/all-products/esuprt_software/esuprt_it_ops_datcentr_mgmt/dell-management-solution-resources_white-papers11_en-us.pdf
+https://objects.icecat.biz/objects/mmo_89558217_1614762909_546_1279.pdf
